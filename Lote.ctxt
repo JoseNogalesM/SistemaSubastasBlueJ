@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lote
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lote\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=numeroDeLote\ descripcion
+comment1.target=Lote(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Lote\r\n
+comment2.params=oferta
+comment2.target=boolean\ ofertaPara(Oferta)
+comment3.params=
+comment3.target=Oferta\ getOfertaMaxima()
+comment4.params=
+comment4.target=int\ getNumero()
+comment5.params=
+comment5.target=java.lang.String\ getDescripcion()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=java.lang.String\ mostrarGanador()
+numComments=8
